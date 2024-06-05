@@ -107,13 +107,13 @@ We welcome contributions to this repository. If you have suggestions for additio
 
 If you encounter any problems or have suggestions for domains that should be added or removed, you can raise an issue:
 
-1. **Open a New Issue**: Go to the [Issues](https://github.com/your-repository/issues) tab in this repository and click on "New Issue".
+1. **Open a New Issue**: Go to the [Issues](https://github.com/occiglot/curated-web-data/issues) tab in this repository and click on "New Issue".
 2. **Provide Details**: Include the domains you want to discuss and provide a short comment explaining why this domain is important or unwanted (why, what, who). Please ensure that you add a link to the dataset if you add duplicated domain.
 3. **Submit the Issue**: Submit your issue and wait for feedback from the maintainers.
 
 ## Tags
 
-As an *optional* extension, we use tags for enhancing the domains with metadata. You can find a list of the already existing tags [here](). If you want to add more unique tags then either generate a pull request or raise an issue. 
+As an *optional* extension, we use tags for enhancing the domains with metadata. You can find a list of the already existing tags [here](./docs/tags.md). If you want to add more unique tags then either generate a pull request or raise an issue. 
 
 ## License
 
@@ -121,7 +121,7 @@ This repository is licensed under the Apache-2.0 license. See the `LICENSE` file
 
 ## Contact
 
-For any questions or concerns, please contact the repository maintainers on [discord]() or raise an [Issues](https://github.com/your-repository/issues).
+For any questions or concerns, please contact the repository maintainers on [discord]() or raise an [Issues](https://github.com/occiglot/curated-web-data/issues).
 
 ---
 
